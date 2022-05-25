@@ -1,20 +1,9 @@
-# Indian paper currency detection using ```opencv3``` and ```python3```
+# Fake Indian Currency Detection using OpenCV and Transfer Learning.
 
-To run do
-```python3 detect.py```
+For denomination detection, OpenCV has been used.
 
-To set a different image modify the ```testing_image``` in detect.py
+For fake currency detection, Transfer Learning using Feature Extraction has been implemented.
 
-The failed parts are in try.py
+Run the detect.py and fakedet.py
 
-UE14CS348 course - mini project  
-Digital Image Processing  
-
-
-## TODO:
-### 	Figure out four point transform
-###	Figure out testing data warping
-### 	Use webcam as input
-### 	Figure out how to use contours
-### 		Currently detects inner rect -> detect outermost rectangle
-### 	Try using video stream from android phone
+The dataset used is: 
