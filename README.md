@@ -6,4 +6,4 @@ For fake currency detection, Transfer Learning using Feature Extraction has been
 
 Run the detect.py and fakedet.py
 
-The dataset used is: 
+The dataset used has 1200+ images.
